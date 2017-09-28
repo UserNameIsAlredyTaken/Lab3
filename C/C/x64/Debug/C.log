@@ -1,0 +1,5 @@
+﻿  C.cpp
+c:\users\danil\desktop\ясп\lab3\c\c\c.cpp(19): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\danil\desktop\ясп\lab3\c\c\c.cpp(20): warning C4804: %: небезопасное использование типа "bool" в операции
+  C.vcxproj -> C:\Users\danil\Desktop\ЯСП\Lab3\C\x64\Debug\C.exe
+  C.vcxproj -> C:\Users\danil\Desktop\ЯСП\Lab3\C\x64\Debug\C.pdb (Partial PDB)
