@@ -1,9 +1,2 @@
-﻿  C.cpp
-C.cpp(19): warning C4018: <: несоответствие типов со знаком и без знака
-  Создание кода
-  1 of 10 functions (10.0%) were compiled, the rest were copied from previous compilation.
-    0 functions were new in current compilation
-    0 functions had inline decision re-evaluated but remain unchanged
-  Создание кода завершено
-  C.vcxproj -> C:\Users\danil\Desktop\ЯСП\Lab3\C\x64\Release\C.exe
-  C.vcxproj -> C:\Users\danil\Desktop\ЯСП\Lab3\C\x64\Release\C.pdb (Full PDB)
+﻿  C.c
+C.c(1): fatal error C1853: файл предкомпилированного заголовка "x64\Release\C.pch" создан в предыдущей версии компилятора или предкомпилированный заголовок C++ используется из C (или наоборот)
