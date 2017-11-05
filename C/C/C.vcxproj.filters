@@ -26,10 +26,10 @@
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="stdafx.cpp">
+    <ClCompile Include="C.c">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-    <ClCompile Include="C.c">
+    <ClCompile Include="stdafx.c">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
   </ItemGroup>
